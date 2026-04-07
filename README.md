@@ -48,6 +48,14 @@ alive-writer-skill/
     └── 20-Vibe_Coding的未来.md
 ```
 
+## 致谢
+
+本项目的灵感和方法论参考了 KKKKhazix 老师的开源 Skill 项目：
+
+> **[KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills)** — 数字生命卡兹克开源的 AI Skills 合集
+
+在此基础上，我们基于 176 篇公众号原文进行了独立的逆向工程分析，重新构建了风格系统、示例库和方法论框架。感谢 KKKKhazix 老师的开源精神和优质内容。
+
 ## 声明
 
 本 Skill 由 [siuserxiaowei](https://github.com/siuserxiaowei) 与 Claude 基于公开发布的公众号文章进行风格分析后共同创建。所有引用的文章原文版权归原作者「数字生命卡兹克」所有。本项目仅供学习和研究使用。
