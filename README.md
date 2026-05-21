@@ -1,5 +1,18 @@
 # Alive Writer Skill — 活人感写作技能
 
+<!-- SIUSER-SEO-INTRO:START -->
+
+## 项目介绍 / Project Introduction
+
+**中文介绍**：活人感写作 Skill，用于把 AI 文本改得更自然、更有人味，适合公众号、小红书、推特和长文内容。
+
+**English**: A human-sounding writing skill that makes AI-generated text more natural for articles, Xiaohongshu, X/Twitter, and long-form content.
+
+**SEO 关键词 / SEO Keywords**: AI writing, humanized writing, copywriting, content creation, 活人感写作
+
+<!-- SIUSER-SEO-INTRO:END -->
+
+
 基于 176 篇「数字生命卡兹克」公众号原文逆向工程的写作 DNA 技能。
 
 ## 这是什么
@@ -63,3 +76,17 @@ alive-writer-skill/
 ## License
 
 MIT
+
+<!-- SIUSER-CONTACT:START -->
+
+## 联系我 / Contact
+
+想交流 AI 工具、内容自动化、SEO、私域增长或项目合作，可以扫码加我微信。
+
+For collaboration on AI tools, content automation, SEO, private-domain growth, or product experiments, scan the WeChat QR code below.
+
+<img src="https://raw.githubusercontent.com/siuserxiaowei/siuserxiaowei/main/assets/contact/wechat-qrcode.jpg" width="180" alt="WeChat QR code / 微信二维码" />
+
+**关键词 / Keywords**: AI writing, humanized writing, copywriting, content creation, AI tools, AI automation, GitHub Pages, SEO
+
+<!-- SIUSER-CONTACT:END -->
