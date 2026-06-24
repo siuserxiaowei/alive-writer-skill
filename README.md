@@ -1,60 +1,68 @@
 # Alive Writer Skill — 活人感写作技能
 
 <!-- SIUSER-REPO-GUIDE:START -->
-## Repository Guide
+## 项目介绍 / Project Introduction
 
-### What This Repository Does
-
+### 中文
 活人感写作 Skill：把 AI 写作、文案改写和内容人味化流程沉淀成技能。
 
-English summary: Humanized writing skill for AI writing, copy editing, and more natural content workflows.
+### English
+Humanized writing skill for AI writing, copy editing, and more natural content workflows.
 
-### Online Entry Points
+## 使用方式 / Usage
 
-- GitHub repository: https://github.com/siuserxiaowei/alive-writer-skill
-- Live / GitHub Pages: not configured for this repository
-- Default branch: `main`
-- Primary language: `not specified`
+### 中文
+1. 先读 README，确认项目目标和当前维护状态。
+2. 根据仓库结构找到核心文件、脚本或资料目录。
+3. 修改前后保持小步提交，并补充必要的验证记录。
 
-### How To Read / Learn This Repository
+### English
+1. Read the README first to understand the project goal and maintenance state.
+2. Use the repository map to find core files, scripts, or content directories.
+3. Keep changes small and record the relevant validation steps.
 
-1. 先读本 README，确认项目目标、在线入口和本地运行方式。
-2. 优先查看 `SKILL.md`、`README.md` 和示例脚本，理解这个 skill 解决什么问题。
-3. 如果要修改内容，先小范围改动，再运行本 README 中的验证命令。
+## 入口与元信息 / Entry Points & Metadata
 
-### Clone This Repository
+- GitHub 仓库 / Repository: https://github.com/siuserxiaowei/alive-writer-skill
+- 默认分支 / Default branch: `main`
+- 主要语言 / Primary language: `project`
+- 可见性 / Visibility: `public`
+- 仓库类型 / Repository type: `source`
+
+## 本地运行 / Local Run
 
 ```bash
 git clone https://github.com/siuserxiaowei/alive-writer-skill.git
 cd alive-writer-skill
+# Open README.md and inspect the repository files for the relevant entry point.
 ```
 
-### Run Or View Locally
+## 仓库结构 / Repository Map
 
-这个仓库没有检测到固定本地运行命令。通常可以直接阅读 README、源码、数据文件或线上页面；如需运行，请先查看仓库内的脚本和配置文件。
+| 路径 / Path | 中文说明 | English |
+| --- | --- | --- |
+| `README.md` | 项目入口说明，先读这里。 | Main project entry point and orientation. |
+| `LICENSE` | 许可证文件。 | License file. |
+| `alive-writer` | 项目文件或目录。 | Project file or directory. |
+| `articles` | 项目文件或目录。 | Project file or directory. |
+| `.gitignore` | 项目文件或目录。 | Project file or directory. |
 
-### Repository Map
+## 维护备注 / Maintenance Notes
 
-| Path | Purpose |
-| --- | --- |
-| `README.md` | 项目入口说明，先读这里。 |
-| `LICENSE` | 项目文件。 |
-| `alive-writer/` | 项目目录。 |
-| `articles/` | 项目目录。 |
+- 中文：当项目目标、在线入口、运行命令或目录结构变化时，同步更新本说明。
+- English: Keep this guide updated when the project purpose, live link, run commands, or structure changes.
+- 中文：修改代码、数据或生成页面后，优先运行相关构建、测试或校验命令。
+- English: After changing code, data, or generated pages, run the relevant build, test, or validation command.
 
-### Maintenance Notes
+## 安全与隐私 / Safety & Privacy
 
-- Keep this README in sync when the project purpose, live link, or run commands change.
-- Prefer small, focused commits when changing code, data, or generated pages.
-- Run the relevant build or validation command before publishing changes.
-- If this is a generated/static archive, update the source data first, then regenerate the public files.
-
-### Privacy And Safety
-
-- Do not commit API keys, tokens, passwords, cookies, private URLs, or internal account data.
-- Keep private source material out of public GitHub Pages output unless it has been explicitly cleared for publication.
-- When in doubt, run a quick secret scan such as `rg -n "token|secret|password|access_key|authorization"` before pushing.
+- 中文：不要提交 API key、token、密码、cookie、私有链接或内部账号资料。
+- English: Do not commit API keys, tokens, passwords, cookies, private URLs, or internal account data.
+- 中文：公开 GitHub Pages 前，确认资料已脱敏并允许公开。
+- English: Before publishing GitHub Pages output, confirm the material is redacted and cleared for public release.
 <!-- SIUSER-REPO-GUIDE:END -->
+
+
 
 <!-- SIUSER-SEO-INTRO:START -->
 
